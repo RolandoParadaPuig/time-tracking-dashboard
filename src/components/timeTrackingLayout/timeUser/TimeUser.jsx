@@ -17,7 +17,7 @@ export const TimeUser = (props) => {
         <img className={"time-tracking--user-img"} src={image} />
         <div className={"time-tracking--user-text"}>
           <h3 className={"time-tracking--user-description"}>Report for</h3>
-          <h2 className={"time-tracking--user-name"}>Jeremy Robson</h2>
+          <h1 className={"time-tracking--user-name"}>Jeremy Robson</h1>
         </div>
       </header>
       <div className={"time-tracking--user-btn-display"}>

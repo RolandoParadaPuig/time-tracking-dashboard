@@ -17,7 +17,7 @@ export const TimeCard = (props) => {
         <article className="time-tracking--article-body">
           <header className="time-tracking--article-header">
             <h2>{time.title}</h2>
-            <a type="" target={"#"}>
+            <a href="#" target={"#"}>
               dots
             </a>
           </header>
