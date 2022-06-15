@@ -1,0 +1,15 @@
+.time-tracking--component {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--timeTracking-Very-dark-blue);
+  display: flex;
+  justify-content: center;
+  color: white;
+  overflow: scroll;
+}
+
+@media (min-width: 461px) {
+  .time-tracking--component {
+    align-items: center;
+  }
+}
